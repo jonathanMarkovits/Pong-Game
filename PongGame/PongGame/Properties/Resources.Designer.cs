@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace aaa.Properties
+namespace PongGame.Properties
 {
 
 

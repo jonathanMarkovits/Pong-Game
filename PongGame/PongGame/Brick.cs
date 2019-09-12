@@ -1,7 +1,7 @@
 ﻿using System.Drawing;
 using System;
 
-namespace aaa
+namespace PongGame
 {
     public class Brick : Entity
     {

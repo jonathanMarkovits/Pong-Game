@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace aaa
+namespace PongGame
 {
     public class Vector
     {

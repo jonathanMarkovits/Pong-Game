@@ -1,5 +1,5 @@
 ﻿
-namespace aaa
+namespace PongGame
 {
     public class Program
     {

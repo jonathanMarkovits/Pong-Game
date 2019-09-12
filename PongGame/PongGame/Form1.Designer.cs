@@ -1,4 +1,4 @@
-﻿namespace aaa
+﻿namespace PongGame
 {
     partial class Form1
     {
