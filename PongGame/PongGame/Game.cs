@@ -2,7 +2,7 @@
 using System.Drawing;
 using System;
 
-namespace PongGame
+namespace aaa
 {
     public class Game : Form
     {

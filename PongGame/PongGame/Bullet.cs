@@ -1,6 +1,6 @@
 ﻿using System.Drawing;
 
-namespace PongGame
+namespace aaa
 {
     public class Bullet : Entity
     {

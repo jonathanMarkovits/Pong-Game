@@ -2,7 +2,7 @@
 using System;
 using System.Windows.Forms;
 
-namespace PongGame
+namespace aaa
 {
     public class Player : Entity
     {

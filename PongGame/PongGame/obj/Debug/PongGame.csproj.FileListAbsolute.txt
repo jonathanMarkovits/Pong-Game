@@ -1,0 +1,8 @@
+C:\Users\jonim\source\repos\Pong-Game\PongGame\PongGame\obj\Debug\PongGame.Properties.Resources.resources
+C:\Users\jonim\source\repos\Pong-Game\PongGame\PongGame\obj\Debug\PongGame.csproj.GenerateResource.cache
+C:\Users\jonim\source\repos\Pong-Game\PongGame\PongGame\obj\Debug\PongGame.csproj.CoreCompileInputs.cache
+C:\Users\jonim\source\repos\Pong-Game\PongGame\PongGame\bin\Debug\PongGame.exe.config
+C:\Users\jonim\source\repos\Pong-Game\PongGame\PongGame\bin\Debug\PongGame.exe
+C:\Users\jonim\source\repos\Pong-Game\PongGame\PongGame\bin\Debug\PongGame.pdb
+C:\Users\jonim\source\repos\Pong-Game\PongGame\PongGame\obj\Debug\PongGame.exe
+C:\Users\jonim\source\repos\Pong-Game\PongGame\PongGame\obj\Debug\PongGame.pdb
